@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>res/password_manager.csv</file>
+    </qresource>
+</RCC>
